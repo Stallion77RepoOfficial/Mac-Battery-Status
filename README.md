@@ -1,12 +1,12 @@
 ## Mac-Battery-Status
 
-Bu Python kodu Mac cihazinizin batarya ve sarj bilgilerini verir.
+Bu Python kodu Mac cihazınızın batarya ve şarj bilgilerini verir.
 
 ## Gereksinimler
-- `psutil` kutuphanesi
+- `psutil` kütüphanesi
 
-## Kullanim
+## Kullanım
 
 1. Bu repoyu klonlayın veya indirin.
-2. `pip3 install psutil`
+2. `pip3 ınstall psutil`
 3. `sudo python3 Mac-Battery-Status`
